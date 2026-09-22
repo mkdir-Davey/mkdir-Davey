@@ -1,8 +1,4 @@
-# Hi there, I'm David
+# Hi there, I'm mkdir-Davey
 
-echo "building, breaking, and securing networks & systems."
-
-### Daily Tech Quote
-<!-- QUOTE_START -->
-"Stay hungry, stay foolish." - Steve Jobs
-<!-- QUOTE_END -->
+```bash
+echo "Building, breaking, and securing networks & systems."
